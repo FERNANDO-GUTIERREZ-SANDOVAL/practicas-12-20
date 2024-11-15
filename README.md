@@ -1,4 +1,4 @@
-# practicas-12-20
+# practicas-12-20 Nombres de integrantes 
 Fernando Gutierrez Sandoval
 Pablo Daniel Blanco Hernandez
 Rosbel Adrian Salazar Rios
